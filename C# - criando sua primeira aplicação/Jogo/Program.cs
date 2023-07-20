@@ -12,10 +12,10 @@ do
     chute = int.Parse(Console.ReadLine()!);
     if(chute>numeroAleatorio)
     {
-        Console.WriteLine("\nNúmero chutado é maior do que o número aleatório");
+        Console.WriteLine("\nNúmero chutado é maior do que o número aleatório!");
     }else if(chute<numeroAleatorio)
     {
-        Console.WriteLine("\nNúmero chutado é menor do que número aleatório");
+        Console.WriteLine("\nNúmero chutado é menor do que número aleatório!");
     }
     tentativas--;
 }while(chute!=numeroAleatorio && tentativas>=1);
