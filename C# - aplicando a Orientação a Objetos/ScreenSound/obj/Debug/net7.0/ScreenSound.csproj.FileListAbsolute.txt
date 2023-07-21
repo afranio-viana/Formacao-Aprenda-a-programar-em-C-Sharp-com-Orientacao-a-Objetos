@@ -1,0 +1,15 @@
+/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - aplicando a Orientação a Objetos/ScreenSound/bin/Debug/net7.0/ScreenSound
+/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - aplicando a Orientação a Objetos/ScreenSound/bin/Debug/net7.0/ScreenSound.deps.json
+/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - aplicando a Orientação a Objetos/ScreenSound/bin/Debug/net7.0/ScreenSound.runtimeconfig.json
+/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - aplicando a Orientação a Objetos/ScreenSound/bin/Debug/net7.0/ScreenSound.dll
+/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - aplicando a Orientação a Objetos/ScreenSound/bin/Debug/net7.0/ScreenSound.pdb
+/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - aplicando a Orientação a Objetos/ScreenSound/obj/Debug/net7.0/ScreenSound.csproj.AssemblyReference.cache
+/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - aplicando a Orientação a Objetos/ScreenSound/obj/Debug/net7.0/ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - aplicando a Orientação a Objetos/ScreenSound/obj/Debug/net7.0/ScreenSound.AssemblyInfoInputs.cache
+/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - aplicando a Orientação a Objetos/ScreenSound/obj/Debug/net7.0/ScreenSound.AssemblyInfo.cs
+/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - aplicando a Orientação a Objetos/ScreenSound/obj/Debug/net7.0/ScreenSound.csproj.CoreCompileInputs.cache
+/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - aplicando a Orientação a Objetos/ScreenSound/obj/Debug/net7.0/ScreenSound.dll
+/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - aplicando a Orientação a Objetos/ScreenSound/obj/Debug/net7.0/refint/ScreenSound.dll
+/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - aplicando a Orientação a Objetos/ScreenSound/obj/Debug/net7.0/ScreenSound.pdb
+/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - aplicando a Orientação a Objetos/ScreenSound/obj/Debug/net7.0/ScreenSound.genruntimeconfig.cache
+/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - aplicando a Orientação a Objetos/ScreenSound/obj/Debug/net7.0/ref/ScreenSound.dll
