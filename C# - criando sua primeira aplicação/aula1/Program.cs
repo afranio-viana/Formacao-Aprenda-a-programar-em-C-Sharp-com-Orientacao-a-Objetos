@@ -56,7 +56,7 @@ void ExibirOpcoesDoMenu()
             break;
         case 3: AvaliarUmaBanda();
             break;
-        case 4: Console.WriteLine($"Você escolheu a opção {opcaoEscolhida}");
+        case 4: ExibirMediaDaBanda();
             break;
         case -1: Console.WriteLine("Tchau ;)");
             break;
@@ -122,7 +122,7 @@ void AvaliarUmaBanda()
 {
     Console.Clear();
     ExibirTituloDaOpcao("*Avaliar Banda*");
-    Console.Write("Digite o nome da banda que deseha avaliar: ");
+    Console.Write("Digite o nome da banda que deseja avaliar: ");
     string nomeDaBanda = Console.ReadLine()!;
 
     if(bandasRegistradas.ContainsKey(nomeDaBanda))
@@ -130,7 +130,11 @@ void AvaliarUmaBanda()
 
         Console.WriteLine($"Qual nota a banda {nomeDaBanda} merece:");
         int nota = int.Parse(Console.ReadLine()!);
-        /*Utilizamos o [] para indexar o dicionário
+        /*UtilizamosConsole.WriteLine($"A banda {nomeDaBanda} não foi encontrada");
+        Console.WriteLine("Digite qualquer tecla para voltar ao menu principal");
+        Console.ReadKey();
+        Console.Clear();
+        ExibirOpcoesDoMenu(); o [] para indexar o dicionário
         após isso, utilizando Add para adicionar elementos 
         na lista*/
         bandasRegistradas[nomeDaBanda].Add(nota);
@@ -140,12 +144,51 @@ void AvaliarUmaBanda()
         ExibirOpcoesDoMenu();
 
     }else{
-        Console.WriteLine($"A banda {nomeDaBanda} não foi encontrada");
-        Console.WriteLine("Digite qualquer tecla para voltar ao menu principal");
-        Console.ReadKey();
-        Console.Clear();
-        ExibirOpcoesDoMenu();
+        BandaNaoFoiEncontrada(nomeDaBanda);
     }
 }
 
+void ExibirMediaDaBanda(){
+    Console.Clear();
+    ExibirTituloDaOpcao("*Media da Banda*");
+    Console.Write("Digite o nome da banda que deseja saber a média: ");
+    string nomeDaBanda = Console.ReadLine()!;
+    float acumulador = 0;
+    if(bandasRegistradas.ContainsKey(nomeDaBanda))
+    {
+
+        if(bandasRegistradas[nomeDaBanda].Count<1)
+        {
+            Console.WriteLine($"\nA banda {nomeDaBanda} não possui nenhuma média registrada");
+            Thread.Sleep(2000);
+            Console.Clear();
+            ExibirOpcoesDoMenu();
+        }else
+        {
+            Console.WriteLine($"Notas da banda {nomeDaBanda}");
+            foreach(int nota in bandasRegistradas[nomeDaBanda])
+            {
+                acumulador = acumulador + nota;
+                Console.WriteLine($"{nota}");
+            }
+            Console.Write("\n\n");
+            float media = acumulador/bandasRegistradas[nomeDaBanda].Count();
+            Console.Write($"A média da banda {nomeDaBanda} é {media}");
+            Thread.Sleep(4000);
+            Console.Clear();
+            ExibirOpcoesDoMenu();
+        }
+
+    }else{
+        BandaNaoFoiEncontrada(nomeDaBanda);
+    }
+}
+
+void BandaNaoFoiEncontrada(string nomeDaBanda){
+    Console.WriteLine($"A banda {nomeDaBanda} não foi encontrada");
+    Console.WriteLine("Digite qualquer tecla para voltar ao menu principal");
+    Console.ReadKey();
+    Console.Clear();
+    ExibirOpcoesDoMenu();
+}
 ExibirOpcoesDoMenu();

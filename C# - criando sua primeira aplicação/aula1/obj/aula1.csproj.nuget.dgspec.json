@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - criando sua primeira aplicação\\aula1\\aula1.csproj": {}
+    "/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - criando sua primeira aplicação/aula1/aula1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - criando sua primeira aplicação\\aula1\\aula1.csproj": {
+    "/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - criando sua primeira aplicação/aula1/aula1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - criando sua primeira aplicação\\aula1\\aula1.csproj",
+        "projectUniqueName": "/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - criando sua primeira aplicação/aula1/aula1.csproj",
         "projectName": "aula1",
-        "projectPath": "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - criando sua primeira aplicação\\aula1\\aula1.csproj",
-        "packagesPath": "C:\\Users\\18465\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - criando sua primeira aplicação\\aula1\\obj\\",
+        "projectPath": "/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - criando sua primeira aplicação/aula1/aula1.csproj",
+        "packagesPath": "/home/viana/.nuget/packages/",
+        "outputPath": "/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - criando sua primeira aplicação/aula1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\18465\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/viana/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.108/RuntimeIdentifierGraph.json"
         }
       }
     }
