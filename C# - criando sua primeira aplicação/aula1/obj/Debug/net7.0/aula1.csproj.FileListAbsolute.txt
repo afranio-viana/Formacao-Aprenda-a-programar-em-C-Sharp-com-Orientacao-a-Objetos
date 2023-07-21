@@ -28,3 +28,18 @@ C:/Users/18465/Desktop/Curso C#/aula1/obj/Debug/net7.0/ref/aula1.dll
 /home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - criando sua primeira aplicação/aula1/obj/Debug/net7.0/aula1.pdb
 /home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - criando sua primeira aplicação/aula1/obj/Debug/net7.0/aula1.genruntimeconfig.cache
 /home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - criando sua primeira aplicação/aula1/obj/Debug/net7.0/ref/aula1.dll
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - criando sua primeira aplicação\aula1\bin\Debug\net7.0\aula1.exe
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - criando sua primeira aplicação\aula1\bin\Debug\net7.0\aula1.deps.json
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - criando sua primeira aplicação\aula1\bin\Debug\net7.0\aula1.runtimeconfig.json
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - criando sua primeira aplicação\aula1\bin\Debug\net7.0\aula1.dll
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - criando sua primeira aplicação\aula1\bin\Debug\net7.0\aula1.pdb
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - criando sua primeira aplicação\aula1\obj\Debug\net7.0\aula1.csproj.AssemblyReference.cache
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - criando sua primeira aplicação\aula1\obj\Debug\net7.0\aula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - criando sua primeira aplicação\aula1\obj\Debug\net7.0\aula1.AssemblyInfoInputs.cache
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - criando sua primeira aplicação\aula1\obj\Debug\net7.0\aula1.AssemblyInfo.cs
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - criando sua primeira aplicação\aula1\obj\Debug\net7.0\aula1.csproj.CoreCompileInputs.cache
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - criando sua primeira aplicação\aula1\obj\Debug\net7.0\aula1.dll
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - criando sua primeira aplicação\aula1\obj\Debug\net7.0\refint\aula1.dll
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - criando sua primeira aplicação\aula1\obj\Debug\net7.0\aula1.pdb
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - criando sua primeira aplicação\aula1\obj\Debug\net7.0\aula1.genruntimeconfig.cache
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - criando sua primeira aplicação\aula1\obj\Debug\net7.0\ref\aula1.dll

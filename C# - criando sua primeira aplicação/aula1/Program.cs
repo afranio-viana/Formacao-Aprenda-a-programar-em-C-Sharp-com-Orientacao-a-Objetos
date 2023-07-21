@@ -4,7 +4,11 @@ string mensagemDeBoasVindas = "\t*Boas vindas ao Screen Sound!!!*";
 /*A forma de criar listas no C# é semelhante a Java,
 onde vocês precisa definir os tipos de elementos que 
 serão agrupados na lista*/
-List<string> listaDasBandas = new List<string>();
+//List<string> listaDasBandas = new List<string>();
+
+/*Assim se cria uma lista já com alguns valores*/
+List<string> listaDasBandas = new List<string>{"U2",
+ "The Beatles", "Calypso"};
 
 void ExibirLogo()
 {
@@ -82,9 +86,16 @@ void MostrarBandasRegistradas()
     /*O for do C# é muito semelhante ao do C
     O Count() é usado para contar o número de elementos 
     dentro de uma lista*/
-    for(int i=0;i<listaDasBandas.Count();i++)
+    /*for(int i=0;i<listaDasBandas.Count();i++)
     {
         Console.WriteLine($"Banda[{i+1}]: {listaDasBandas[i]}");
+    }*/
+    
+    /*O foreach é utilizado para percorrer todos
+    os elementos de uma lista*/
+    foreach(string banda in listaDasBandas)
+    {
+        Console.WriteLine($"Banda: {banda}");
     }
     Console.WriteLine($"\nDigite qualquer tecla para voltar ao menu");
     Console.ReadKey();

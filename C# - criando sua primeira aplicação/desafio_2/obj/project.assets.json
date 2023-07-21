@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - criando sua primeira aplicação\\aula1\\aula1.csproj",
-      "projectName": "aula1",
-      "projectPath": "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - criando sua primeira aplicação\\aula1\\aula1.csproj",
+      "projectUniqueName": "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - criando sua primeira aplicação\\desafio_2\\desafio_2.csproj",
+      "projectName": "desafio_2",
+      "projectPath": "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - criando sua primeira aplicação\\desafio_2\\desafio_2.csproj",
       "packagesPath": "C:\\Users\\18465\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - criando sua primeira aplicação\\aula1\\obj\\",
+      "outputPath": "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - criando sua primeira aplicação\\desafio_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\18465\\AppData\\Roaming\\NuGet\\NuGet.Config"
