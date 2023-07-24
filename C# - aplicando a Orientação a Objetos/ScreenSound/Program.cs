@@ -1,19 +1,27 @@
 ﻿Console.Clear();
 
-Musica musical1 = new Musica();
-musical1.NomeDaMusica = "Faroeste Caboclo";
-musical1.Artista = "Legião Urbana";
-musical1.Duracao = 540;
-musical1.Disponivel = true;
+Album albumDoQueen = new Album();
+Genero generoDeMusica = new Genero();
+generoDeMusica.NomeDoGenero =  "Rock";
 
-Musica musical2 = new Musica();
-musical2.NomeDaMusica = "Roxane";
-musical2.Artista = "The Police";
-musical2.Duracao = 273;
-musical2.Disponivel = false;
+albumDoQueen.NomeDoAlbum = "A night at the opera";
 
-musical1.ExibirFichaTecnica();
-musical1.ExibirNomeMusicaArtista();
+Musica musica1 = new Musica();
+musica1.NomeDaMusica = "Love of my life";
+musica1.Duracao = 213;
+musica1.Artista = "Queen";
 
-musical2.ExibirFichaTecnica();
-musical2.ExibirNomeMusicaArtista();
+Musica musica2 = new Musica();
+musica2.NomeDaMusica = "Bohemian Rhapsody";
+musica2.Duracao = 354;
+musica2.Artista = "Queen";
+
+albumDoQueen.AdicionarMusica(musica1);
+albumDoQueen.AdicionarMusica(musica2);
+
+albumDoQueen.ExibirMusicasDoAlbum();
+
+generoDeMusica.AdicionarMusica(musica1);
+generoDeMusica.AdicionarMusica(musica2);
+
+generoDeMusica.ExibirMusicasDoGenero();
