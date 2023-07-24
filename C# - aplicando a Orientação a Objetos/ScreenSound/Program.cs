@@ -10,6 +10,7 @@ Musica musica1 = new Musica();
 musica1.NomeDaMusica = "Love of my life";
 musica1.Duracao = 213;
 musica1.Artista = "Queen";
+musica1.genero = generoDeMusica;
 
 Musica musica2 = new Musica();
 musica2.NomeDaMusica = "Bohemian Rhapsody";
@@ -25,3 +26,5 @@ generoDeMusica.AdicionarMusica(musica1);
 generoDeMusica.AdicionarMusica(musica2);
 
 generoDeMusica.ExibirMusicasDoGenero();
+
+musica1.ExibirFichaTecnica();

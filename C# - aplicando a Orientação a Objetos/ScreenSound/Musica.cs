@@ -3,6 +3,7 @@ class Musica
     public string NomeDaMusica {get; set;}
     public string Artista {get; set;}
     public int Duracao {get; set;}
+    public Genero genero {get; set;}
 
     /*Por convenção, properties iniciam com letra
     maiúscula*/
@@ -17,6 +18,7 @@ class Musica
         Console.WriteLine($"\nNome: {NomeDaMusica}");
         Console.WriteLine($"Artista: {Artista}");
         Console.WriteLine($"Duração: {Duracao}");
+        Console.WriteLine($"Gênero: {genero.NomeDoGenero}");
         if(Disponivel)
         {
             Console.WriteLine($"A música '{NomeDaMusica}' está disponível!\n");
