@@ -53,3 +53,12 @@ generoDeMusica2.ExibirMusicasDoGenero();
 queen.AdicionarAlbum(albumDoQueen);
 queen.ExibirDiscografia();
 albumDoQueen.ExibirMusicasDoAlbum();
+
+Console.ReadKey();
+Console.Clear();
+Episodio episodio = new Episodio(490, 1, "Episódio 1");
+
+episodio.AdicionarConvidados("Afrânio");
+episodio.AdicionarConvidados("Viana");
+
+episodio.Resumo();

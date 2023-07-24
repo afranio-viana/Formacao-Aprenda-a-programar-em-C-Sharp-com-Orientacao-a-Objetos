@@ -11,7 +11,7 @@ class Genero
         musicas.Add(musica);
         /*Sempre que uma múscia for adicionada a um gênero,
         o atributo gênero pode ser modificado*/
-        musica.Genero = this;
+        //musica.Genero = this;
     }
 
     public void ExibirMusicasDoGenero()

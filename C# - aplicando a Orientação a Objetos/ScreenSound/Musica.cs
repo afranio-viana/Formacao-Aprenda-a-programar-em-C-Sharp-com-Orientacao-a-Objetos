@@ -10,7 +10,7 @@ class Musica
     public string NomeDaMusica {get;}
     public Banda Artista {get;}
     public int Duracao {get; set;}
-    public Genero Genero {get; set;}
+    public Genero Genero {get;}
 
     /*Por convenção, properties iniciam com letra
     maiúscula*/
