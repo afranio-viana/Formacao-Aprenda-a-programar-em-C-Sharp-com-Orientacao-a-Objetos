@@ -1,6 +1,9 @@
 class Genero
 {
-    public string NomeDoGenero {get; set;}
+    public Genero (string nome){
+        NomeDoGenero = nome;
+    }
+    public string NomeDoGenero {get;}
     List<Musica> musicas = new List<Musica> ();
 
     public void AdicionarMusica(Musica musica)
@@ -16,7 +19,7 @@ class Genero
         Console.WriteLine($"\nGênero Musical: {NomeDoGenero}");
         foreach (var musica in musicas)
         {
-            Console.WriteLine($"Musica: {musica.NomeDaMusica} - {musica.Artista}");
+            Console.WriteLine($"Musica: {musica.NomeDaMusica} - {musica.Artista.NomeDaBanda}");
         }
     }
 }

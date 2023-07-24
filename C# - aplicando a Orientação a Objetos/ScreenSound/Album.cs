@@ -1,7 +1,11 @@
 class Album
 {
+    public Album (String nome)
+    {
+        NomeDoAlbum = nome;
+    }
     private List<Musica> musicas = new List<Musica>();
-    public string NomeDoAlbum {get; set;}
+    public string NomeDoAlbum {get;}
 
     /*Foi utilizada uma expressão labmda para realizar
     a soma de todos as propriedade de Duração dentro

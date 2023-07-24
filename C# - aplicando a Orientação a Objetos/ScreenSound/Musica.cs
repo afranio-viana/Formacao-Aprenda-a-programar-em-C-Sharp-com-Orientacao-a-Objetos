@@ -1,7 +1,14 @@
 class Musica
 {
-    public string NomeDaMusica {get; set;}
-    public string Artista {get; set;}
+    /*Isso é um construtor, sempre que um objeto música é criado,
+    deve ser passado um objeto da classe banda como referência*/
+    public Musica (Banda artista,string nome, Genero genero){
+        Artista = artista;
+        NomeDaMusica = nome;
+        Genero = genero;
+    }
+    public string NomeDaMusica {get;}
+    public Banda Artista {get;}
     public int Duracao {get; set;}
     public Genero Genero {get; set;}
 
@@ -16,12 +23,10 @@ class Musica
     public void ExibirFichaTecnica()
     {
         Console.WriteLine($"\nNome: {NomeDaMusica}");
-        Console.WriteLine($"Artista: {Artista}");
+        Console.WriteLine($"Artista: {Artista.NomeDaBanda}");
         Console.WriteLine($"Duração: {Duracao}");
-        if(Genero != null)
-        {
-            Console.WriteLine($"Gênero: {Genero.NomeDoGenero}");
-        }
+        Console.WriteLine($"Gênero: {Genero.NomeDoGenero}");
+        
         if(Disponivel)
         {
             Console.WriteLine($"A música '{NomeDaMusica}' está disponível!\n");
