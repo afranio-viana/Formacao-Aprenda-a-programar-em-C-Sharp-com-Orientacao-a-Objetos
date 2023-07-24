@@ -1,19 +1,19 @@
 ﻿Console.Clear();
 
 Musica musical1 = new Musica();
-musical1.nomeDaMusica = "Faroeste Caboclo";
-musical1.artista = "Legião Urbana";
-musical1.duracao = 540;
-musical1.disponivel = true;
+musical1.NomeDaMusica = "Faroeste Caboclo";
+musical1.Artista = "Legião Urbana";
+musical1.Duracao = 540;
+musical1.Disponivel = true;
 
 Musica musical2 = new Musica();
-musical2.nomeDaMusica = "Roxane";
-musical2.artista = "The Police";
-musical2.duracao = 273;
-musical2.disponivel = false;
+musical2.NomeDaMusica = "Roxane";
+musical2.Artista = "The Police";
+musical2.Duracao = 273;
+musical2.Disponivel = false;
 
 musical1.ExibirFichaTecnica();
-musical2.ExibirFichaTecnica();
-
 musical1.ExibirNomeMusicaArtista();
+
+musical2.ExibirFichaTecnica();
 musical2.ExibirNomeMusicaArtista();

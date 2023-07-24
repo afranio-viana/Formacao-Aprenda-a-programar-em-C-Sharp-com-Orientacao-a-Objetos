@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - aplicando a Orientação a Objetos/ScreenSound/ScreenSound.csproj": {}
+    "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound.csproj": {}
   },
   "projects": {
-    "/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - aplicando a Orientação a Objetos/ScreenSound/ScreenSound.csproj": {
+    "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - aplicando a Orientação a Objetos/ScreenSound/ScreenSound.csproj",
+        "projectUniqueName": "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound.csproj",
         "projectName": "ScreenSound",
-        "projectPath": "/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - aplicando a Orientação a Objetos/ScreenSound/ScreenSound.csproj",
-        "packagesPath": "/home/viana/.nuget/packages/",
-        "outputPath": "/home/viana/Área de Trabalho/Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos/C# - aplicando a Orientação a Objetos/ScreenSound/obj/",
+        "projectPath": "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound.csproj",
+        "packagesPath": "C:\\Users\\18465\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - aplicando a Orientação a Objetos\\ScreenSound\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/viana/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\18465\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.108/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
