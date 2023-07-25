@@ -56,9 +56,21 @@ albumDoQueen.ExibirMusicasDoAlbum();
 
 Console.ReadKey();
 Console.Clear();
-Episodio episodio = new Episodio(490, 1, "Episódio 1");
+Episodio episodio1 = new Episodio(490, 1, "Episódio 1");
 
-episodio.AdicionarConvidados("Afrânio");
-episodio.AdicionarConvidados("Viana");
+episodio1.AdicionarConvidados("Afrânio");
+episodio1.AdicionarConvidados("Viana");
+Console.WriteLine(episodio1.Resumo);
 
-episodio.Resumo();
+Episodio episodio2 = new Episodio(60, 2, "Episódio 2");
+
+episodio2.AdicionarConvidados("Lord");
+episodio2.AdicionarConvidados("Kronoss");
+
+
+_Podcast podcast = new _Podcast("Kronos","Esquerdo Talk");
+
+podcast.AdicionarEpisodio(episodio1);
+podcast.AdicionarEpisodio(episodio2);
+podcast.ExibirDetalhes();
+

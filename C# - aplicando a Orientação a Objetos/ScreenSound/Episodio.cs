@@ -11,20 +11,13 @@ class Episodio
 
     public string Titulo {get;}
     public List<string> convidadosDoPodcast = new List<string>();
+    /*Foi utilizado o Join para realizar a concatenação
+    de todos os itens da lista*/
+    public string Resumo => $"{Ordem} - {Titulo} ({Duracao}) min: - {string.Join(", ",convidadosDoPodcast)}";
 
     public void AdicionarConvidados (string convidados)
     {
         convidadosDoPodcast.Add(convidados);
     }
-
-    public void Resumo()
-    {
-        Console.WriteLine($"{Ordem} - {Titulo} ({Duracao}): ");
-        foreach(string convidado in convidadosDoPodcast)
-        {
-            Console.WriteLine($"{convidado}");
-        }
-    }
-
     
 }

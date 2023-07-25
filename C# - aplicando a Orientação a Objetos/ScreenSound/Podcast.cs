@@ -5,8 +5,21 @@ class _Podcast
         HostNome = nome;
         NomePodcast = podcast;
     }
-    public string HostNome{get; set;}
-    public string NomePodcast{get; set;}
-    public string TotalDeEpisodios{get; set;} 
+    public string HostNome{get;}
+    public string NomePodcast{get;}
+    List<Episodio> episodios = new List<Episodio>();
+    public int TotalDeEpisodios => episodios.Count();
+
+    public void AdicionarEpisodio(Episodio episodio){
+        episodios.Add(episodio);
+    }
+
+    public void ExibirDetalhes(){
+        Console.WriteLine($"\n\nPodcast {NomePodcast} apresentado por {HostNome}");
+        foreach(Episodio episodio in episodios.OrderBy(e=>e.Ordem)){
+            Console.WriteLine($"{episodio.Resumo}");
+        }
+        Console.WriteLine($"Esse podcast possui {TotalDeEpisodios} episódios");
+    }
 
 }
