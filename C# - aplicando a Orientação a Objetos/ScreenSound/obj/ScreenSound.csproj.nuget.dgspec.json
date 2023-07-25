@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound.csproj": {}
+    "c:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound.csproj": {}
   },
   "projects": {
-    "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound.csproj": {
+    "c:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound.csproj",
+        "projectUniqueName": "c:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound.csproj",
         "projectName": "ScreenSound",
-        "projectPath": "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound.csproj",
+        "projectPath": "c:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound.csproj",
         "packagesPath": "C:\\Users\\18465\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - aplicando a Orientação a Objetos\\ScreenSound\\obj\\",
+        "outputPath": "c:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - aplicando a Orientação a Objetos\\ScreenSound\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\18465\\AppData\\Roaming\\NuGet\\NuGet.Config"
