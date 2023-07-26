@@ -1,0 +1,15 @@
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\bin\Debug\net7.0\ScreenSound-04.exe
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\bin\Debug\net7.0\ScreenSound-04.deps.json
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\bin\Debug\net7.0\ScreenSound-04.runtimeconfig.json
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\bin\Debug\net7.0\ScreenSound-04.dll
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\bin\Debug\net7.0\ScreenSound-04.pdb
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.csproj.AssemblyReference.cache
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.AssemblyInfoInputs.cache
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.AssemblyInfo.cs
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.csproj.CoreCompileInputs.cache
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.dll
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\obj\Debug\net7.0\refint\ScreenSound-04.dll
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.pdb
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.genruntimeconfig.cache
+C:\Users\18465\Desktop\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\C# - consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\obj\Debug\net7.0\ref\ScreenSound-04.dll
