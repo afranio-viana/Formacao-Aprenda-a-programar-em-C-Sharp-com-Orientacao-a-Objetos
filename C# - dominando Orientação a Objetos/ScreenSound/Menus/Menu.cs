@@ -22,6 +22,14 @@ internal class Menu
         Console.Clear();
     }
 
+    public static void AlbumNaoEncontrado(string tituloAlbum)
+    {
+        Console.WriteLine($"\nO album {tituloAlbum} não foi encontrado!");
+        Console.WriteLine("Digite uma tecla para voltar ao menu principal");
+        Console.ReadKey();
+        Console.Clear();
+    }
+
     public virtual void Executar(Dictionary<string, Banda> bandasRegistradas)
     {
         Console.Clear();
