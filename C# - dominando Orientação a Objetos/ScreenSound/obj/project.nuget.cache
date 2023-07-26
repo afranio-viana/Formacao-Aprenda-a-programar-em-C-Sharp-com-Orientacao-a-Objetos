@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/myQTFvewo3OdDMzwVt9p2aw0kNg2/U3JUAvzdAk9qYVZblKFZm+gfi4T67OomvszUXeH5Nt7AjrzeAe/8O2YQ==",
+  "dgSpecHash": "y7F/8w59zOF3XDZuhF99mi6QbHo/BxP6YWLp/hZXodak2zZsEbtEMaVpME5BMRlJIlEcA0/gdJiwIGGBac19Wg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - dominando Orientação a Objetos\\ScreenSound\\ScreenSound.csproj",
+  "projectFilePath": "c:\\Users\\18465\\Desktop\\Formacao-Aprenda-a-programar-em-C-Sharp-com-Orientacao-a-Objetos\\C# - dominando Orientação a Objetos\\ScreenSound\\ScreenSound.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\18465\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\18465\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",
