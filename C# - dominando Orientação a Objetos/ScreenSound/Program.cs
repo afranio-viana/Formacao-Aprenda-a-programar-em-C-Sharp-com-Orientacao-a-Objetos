@@ -1,8 +1,10 @@
 ﻿using ScreenSound.Modelos;
 using ScreenSound.Menu;
+using OpenAI_API;
+using OpenAI_API.Chat;
 
 
-Banda ira = new Banda("Ira");
+Banda ira = new Banda("Ira!");
 ira.AdicionarNota(new Avaliacao(10));
 ira.AdicionarNota(new Avaliacao(8));
 ira.AdicionarNota(new Avaliacao(6));
