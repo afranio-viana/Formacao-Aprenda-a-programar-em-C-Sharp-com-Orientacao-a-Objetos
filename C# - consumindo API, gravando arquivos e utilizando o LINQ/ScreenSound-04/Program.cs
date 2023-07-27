@@ -13,9 +13,12 @@ using (HttpClient client = new HttpClient())
         // {
         //     musica.ExibirDetalhesDaMusica();
         // }
-        LinqFilter.FiltrarTodosOsGenerosMusicais(musicas);
-        LinqOrder.ExibirListaDeArtistasOrdenados(musicas);
-
+        //LinqFilter.FiltrarTodosOsGenerosMusicais(musicas);
+        //LinqOrder.ExibirListaDeArtistasOrdenados(musicas);
+        //LinqFilter.FiltrarArtistaPorGeneroMusical(musicas, "pop");
+        //LinqFilter.FiltrarMusicasDeUmArtista(musicas, "Lady Gaga");
+        LinqFilter.FiltrarMusicasPorAno(musicas, "2012");
+    
     }catch (Exception ex)
     {
         Console.WriteLine($"\n\nInfelizmente não funfou!!!\n\nMotivo: {ex.Message}");
