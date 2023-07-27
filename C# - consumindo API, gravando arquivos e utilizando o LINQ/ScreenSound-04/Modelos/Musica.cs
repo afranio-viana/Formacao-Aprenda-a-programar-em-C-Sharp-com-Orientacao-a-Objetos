@@ -3,6 +3,7 @@ using System.Text.Json.Serialization;
 
 internal class Musica
 {
+    private string[] tonalidades = {"C", "C#", "D", "Eb", "E", "F", "F#", "G", "Ab", "A", "Bb", "B"};
     [JsonPropertyName("song")]
     public string? Nome {get; set;}
 
@@ -18,12 +19,23 @@ internal class Musica
     [JsonPropertyName("year")]
     public string? Ano {get; set;} 
 
+    [JsonPropertyName("key")]
+    public int Key {get; set;}
+     public string Tonalidade
+     {
+        get
+        {
+            return tonalidades[Key];
+        }
+     }
+
     public void ExibirDetalhesDaMusica()
     {
         Console.WriteLine($"Artista: {Artista}");
         Console.WriteLine($"Música: {Nome}");
         Console.WriteLine($"Duração: {Duracao/1000}");
         Console.WriteLine($"Gênero: {Genero}\n\n");
+        Console.WriteLine($"Tonalidade: {Tonalidade}");
     }
     
 }

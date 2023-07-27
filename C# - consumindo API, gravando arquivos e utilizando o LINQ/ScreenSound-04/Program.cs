@@ -11,32 +11,33 @@ using (HttpClient client = new HttpClient())
         var musicas = JsonSerializer.Deserialize<List<Musica>>(resposta)!;
         // foreach (Musica musica in musicas.OrderBy(mu => mu.Artista))
         // {
-        //     musica.ExibirDetalhesDaMusica();
+        //      musica.ExibirDetalhesDaMusica();
         // }
         //LinqFilter.FiltrarTodosOsGenerosMusicais(musicas);
         //LinqOrder.ExibirListaDeArtistasOrdenados(musicas);
         //LinqFilter.FiltrarArtistaPorGeneroMusical(musicas, "pop");
         //LinqFilter.FiltrarMusicasDeUmArtista(musicas, "Lady Gaga");
         //LinqFilter.FiltrarMusicasPorAno(musicas, "2012");
+        LinqFilter.FiltrarMusicaPorTonalidade(musicas, "C#");
 
-        var musicasPreferidasDoAfranio =  new MusicasPreferidas("Afrânio");
-        musicasPreferidasDoAfranio.AdicionarMusicasFavoritas(musicas[1]);
-        musicasPreferidasDoAfranio.AdicionarMusicasFavoritas(musicas[9]);
-        musicasPreferidasDoAfranio.AdicionarMusicasFavoritas(musicas[11]);
-        musicasPreferidasDoAfranio.AdicionarMusicasFavoritas(musicas[60]);
-        musicasPreferidasDoAfranio.AdicionarMusicasFavoritas(musicas[1000]);
-        musicasPreferidasDoAfranio.ExibirMusicasFavoritas();
-        musicasPreferidasDoAfranio.GerarArquivoJson();
+        // var musicasPreferidasDoAfranio =  new MusicasPreferidas("Afrânio");
+        // musicasPreferidasDoAfranio.AdicionarMusicasFavoritas(musicas[1]);
+        // musicasPreferidasDoAfranio.AdicionarMusicasFavoritas(musicas[9]);
+        // musicasPreferidasDoAfranio.AdicionarMusicasFavoritas(musicas[11]);
+        // musicasPreferidasDoAfranio.AdicionarMusicasFavoritas(musicas[60]);
+        // musicasPreferidasDoAfranio.AdicionarMusicasFavoritas(musicas[1000]);
+        // musicasPreferidasDoAfranio.ExibirMusicasFavoritas();
+        // musicasPreferidasDoAfranio.GerarArquivoJson();
 
      
 
-        var musicasPreferidasDoViana = new MusicasPreferidas("Viana");
-        musicasPreferidasDoViana.AdicionarMusicasFavoritas(musicas[89]);
-        musicasPreferidasDoViana.AdicionarMusicasFavoritas(musicas[69]);
-        musicasPreferidasDoViana.AdicionarMusicasFavoritas(musicas[912]);
-        musicasPreferidasDoViana.AdicionarMusicasFavoritas(musicas[164]);
-        musicasPreferidasDoViana.AdicionarMusicasFavoritas(musicas[921]);
-        musicasPreferidasDoViana.ExibirMusicasFavoritas();
+        // var musicasPreferidasDoViana = new MusicasPreferidas("Viana");
+        // musicasPreferidasDoViana.AdicionarMusicasFavoritas(musicas[89]);
+        // musicasPreferidasDoViana.AdicionarMusicasFavoritas(musicas[69]);
+        // musicasPreferidasDoViana.AdicionarMusicasFavoritas(musicas[912]);
+        // musicasPreferidasDoViana.AdicionarMusicasFavoritas(musicas[164]);
+        // musicasPreferidasDoViana.AdicionarMusicasFavoritas(musicas[921]);
+        // musicasPreferidasDoViana.ExibirMusicasFavoritas();
     
     }catch (Exception ex)
     {
